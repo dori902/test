@@ -1,7 +1,7 @@
 name: dorigame
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://gamekingdori.github.io/Gamemake/
+homepage: https://github.com/GameKingdori/Gamemake.git
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
